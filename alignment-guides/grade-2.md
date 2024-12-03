@@ -3,11 +3,10 @@ title: Grade 2 Standard Alignment Guide
 grades: '2'
 standards: 2.CS
 links:
-    drive: https://drive.google.com/file/d/1IHDDHKuGvnqQ8935wD90jjf-7D7S4JXU/view?usp=drive_link
-    pdf: https://drive.google.com/file/d/1IHDDHKuGvnqQ8935wD90jjf-7D7S4JXU/view?usp=drive_link
-    goopen: https://goopenva.org/courseware/lesson/6782/overview
+    drive: https://drive.google.com/drive/folders/1dxNNhemYu2fzr19phsn_iidffsho0bMt?usp=drive_link
+    pdf: https://drive.google.com/file/d/1U7_XWuYGz4uY9i2MjQ4a_pHJp4h0Ptzn/view?usp=drive_link
 ---
 
 ## Overview
 
-Computer Science Standard Alignment Guides are resources for teachers working to integrate computer science into their core curriculum. These guides explain the standards, give a sample activity or lesson that teaches the standard, and ways to measure student proficiency on the skill or concept. This particular guide is aligned to the 2nd grade Virginia Computer Science SOLs.
+Computer Science Standard Alignment Guides are resources for teachers working to integrate computer science into their core curriculum. These guides explain the standards, give a sample activity or lesson that teaches the standard, and ways to incorporate CS learning experiences into other subject areas. This particular guide is aligned to the 2024 2nd Grade Virginia Computer Science SOLs.
