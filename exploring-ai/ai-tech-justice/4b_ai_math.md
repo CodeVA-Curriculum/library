@@ -1,6 +1,7 @@
 ---
 title: AI + Mathematics
 authors: Amber Rauls-Drayer, Michelle Pealo
+standards: 8.CS24.DA.2, 8.CS24.IC.1
 subjects: Computer Science, Mathematics
 types: Lesson Plan
 _tags: artificial intelligence, AI, ethics, data 
