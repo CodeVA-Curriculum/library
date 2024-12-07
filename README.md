@@ -122,9 +122,11 @@ Error: Found problems in the library. See errors.log for details
 
 The auditor will create a file (`errors.log`) with information about the problems that must be corrected in order to upload the new library version to the Curriculum Library website.
 
-<!-- TODO: implement ### Markdown Details
+### Markdown Details
 
 The library supports several "directives", special Markdown elements that allow contributors to add additional detail or important styled features to Element pages.
+
+<!-- TODO: 
 
 #### `::nsf`
 
@@ -135,7 +137,7 @@ The `::nsf` directive allows contributors to insert the NSF disclaimer boilerpla
 
 The *Twine Trail Guide* is a website with resources, tutorials, and projects for novice programmers to use as they develop coding skills in Twine.
 
-::nsf{number=123456}
+::nsf[123456]
 ```
 
 If the directive does not define a number, the auditor script will throw an error:
@@ -143,6 +145,21 @@ If the directive does not define a number, the auditor script will throw an erro
 ```
 Error: File {filename} uses the ::nsf directive, but does not define a number!
 ``` -->
+
+#### `::supporter`
+
+The `::supporter` directive is a catch-all element that allows contributors to create a callout box like the `::nsf` disclaimer crediting another organization. It takes one child, the name of the supporter organization, and a `src` attribute pointing to the logo image for the organization (which should be added to `static/images`).
+
+```
+::supporter[the Kapor Center]{src="logo.png"}
+```
+
+The name of the organization will be inserted into the following template:
+
+> This material was created with support from [organization name]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of [organization name].
+
+Be sure to add an article to the name if it needs one to make sense in the template (e.g., "the Kapor Center" needs "the" in order to make sense, while "Capital One" does not require it).
+
 
 ### Field Details (Work in Progress)
 
