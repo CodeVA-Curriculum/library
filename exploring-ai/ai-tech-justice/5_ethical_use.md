@@ -1,6 +1,7 @@
 ---
 title: Ethical Use & Responsibility
 authors: Holly Sawyer, Michelle Pealo
+standards: HS.CSF.IC.1
 subjects: Computer Science, English, Civics
 types: Lesson Plan
 _tags: artificial intelligence, AI, ethics, data
