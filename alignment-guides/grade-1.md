@@ -1,7 +1,7 @@
 ---
 title: Grade 1 Standard Alignment Guide
 grades: '1'
-standards: 1.CS
+standards: 1.CS24
 links:
     drive: https://drive.google.com/drive/folders/1386H5WyD3mLejNaEtl8KHyCjS32Qj-nb?usp=drive_link
     pdf: https://drive.google.com/file/d/1jfUnsxqWoPvRNDTxchB2f8Hgv9xa1PZC/view?usp=drive_link
