@@ -2,6 +2,7 @@
 title: What is the Role of Data?
 authors: Amber Rauls-Drayer, Michelle Pealo
 subjects: Computer Science
+standards: 8.CS24.DA.2, 8.CS24.IC.1
 types: Lesson Plan
 _tags: artificial intelligence, AI, ethics, data
 links:
