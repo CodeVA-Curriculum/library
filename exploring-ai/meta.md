@@ -9,6 +9,7 @@ links:
     drive: https://drive.google.com/drive/folders/1T-zSgYpMxSWRW2cL40ErU9RpU8GctSi7
 tags: AI, machine learning
 contents:
+    - ./ai-tech-justice
     - ./teachable-machine.md
     - ./ai-sol-crosswalk.md
 ---
