@@ -1,6 +1,7 @@
 ---
 title: Bias in AI
 authors: Holly Sawyer, Amber Rauls-Drayer, Jon Stapleton
+standards: HS.CSF.DA.3, HS.CSP.DA.3, HS.CSP.DA.4
 subjects: Computer Science
 types: Lesson Plan
 _tags: artificial intelligence, AI, ethics, data, dataset, bias
