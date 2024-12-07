@@ -1,6 +1,7 @@
 ---
 title: Teachable Machine
 authors: Amber Rauls-Drayer, Holly Sawyer, Michelle Pealo, Jon Stapleton
+standards: 8.CS24.DA.2, 8.CS24.IC.1
 subjects: Computer Science
 types: Lesson Plan
 _tags: artificial intelligence, AI, ethics, data
