@@ -1,6 +1,7 @@
 ---
 title: Exploring a Dataset
 authors: Holly Sawyer, Michelle Pealo
+standards: 8.CS24.DA.2, 8.CS24.IC.1
 subjects: Computer Science
 types: Lesson Plan
 _tags: data, dataset
