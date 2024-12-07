@@ -1,7 +1,7 @@
 ---
 title: Kindergarten Standard Alignment Guides
 grades: K
-standards: K.CS
+standards: K.CS24
 links:
     drive: https://drive.google.com/drive/folders/1v7IqdfdtnkP-qo2kQ_lMgcnQU3mQB3fU?usp=drive_link
     pdf: https://drive.google.com/file/d/1lbccTEEkPGGipXzNZT7FndnxxeOdKZp7/view?usp=drive_link
