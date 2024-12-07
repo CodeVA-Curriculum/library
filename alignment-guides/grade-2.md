@@ -1,7 +1,7 @@
 ---
 title: Grade 2 Standard Alignment Guide
 grades: '2'
-standards: 2.CS
+standards: 2.CS24
 links:
     drive: https://drive.google.com/drive/folders/1dxNNhemYu2fzr19phsn_iidffsho0bMt?usp=drive_link
     pdf: https://drive.google.com/file/d/1U7_XWuYGz4uY9i2MjQ4a_pHJp4h0Ptzn/view?usp=drive_link
