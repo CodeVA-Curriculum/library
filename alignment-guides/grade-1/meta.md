@@ -8,6 +8,7 @@ standards: 1.CS24
 contents:
     - ./1-ap-1.md
     - ./1-ap-2.md
+    - ./1-ap-3.md
     - ./1-csy-1.md
     - ./1-csy-2.md
     - ./1-cyb-1.md
@@ -16,6 +17,7 @@ contents:
     - ./1-da-2.md
     - ./1-ic-1.md
     - ./1-ic-2.md
+    - ./1-ic-3.md
     - ./1-ni-1.md
 links:
     drive: https://drive.google.com/drive/folders/1386H5WyD3mLejNaEtl8KHyCjS32Qj-nb?usp=drive_link
