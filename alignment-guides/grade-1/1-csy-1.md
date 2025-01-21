@@ -1,6 +1,6 @@
 ---
 title: 1.CSY.1 Standards Alignment Guide
-grades: 1
+grades: "1"
 standards: 1.CS24.CSY.1
 links:
     drive: https://docs.google.com/document/d/12FLmbWZ-ktSLyywwUag4m3WFZ_IMK3jQuetgCs1uCLI/edit?usp=drive_link
