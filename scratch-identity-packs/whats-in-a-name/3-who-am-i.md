@@ -10,6 +10,6 @@ links:
 
 In this lesson, students will discuss and reflect on Calvin’s story. First, the class will reflect on what Calvin decided to share about his identity in order to begin thinking about what they may want to share about themselves. Then, students will use an identity wheel activity to organize their thoughts and reflections. Finally, students will create a Scratch project that visually represents their identity. This lesson plan provides design documents for the project, additional short or long assessments, and lots of room for reflection and discussion. 
 
-Lesson 3 of 7 in the [What’s in a Name? Lesson Sequence](/library/browse/scratch-identity-packs/whats-in-a-name), as part of the [Scratch Identity Packs](/library/browse/scratch-identity-packs) project.
+Lesson 3 of 7 in the [What’s in a Name? Lesson Sequence](/library/browse/scratch-identity-packs/whats-in-a-name), as part of the *Scratch Identity Packs* project.
 
 ::supporter
