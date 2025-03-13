@@ -15,3 +15,5 @@ links:
 ## Overview
 
 Students will research one of the seven federally recognized tribes of Native Americans in Virginia to identify local features of the land, their language, the region of Virginia where they originally lived, where the tribal lands are today, and how they interacted with their environment. From this research, the student groups will design a visualization of this data using a poster, online design tool, or a presentation. Student groups will present their information to each other, and the classroom will design a chart to find similarities and differences between the tribes. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

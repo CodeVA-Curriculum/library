@@ -26,3 +26,4 @@ The teacher will ask the students a variety of questions to make them think abou
 * Analyze data that has been gathered and organized.
 * Develop hypotheses from simple questions based on given data.
 
+::supporter

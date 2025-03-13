@@ -18,3 +18,5 @@ In this introductory lesson, students will learn about Micro\:Bit programming by
 - Use input/event blocks to write programs for the Micro\:Bit
 - Use buttons and gestures as inputs
 - Use display functions to control the Micro\:Bit LED matrix.
+
+::supporter

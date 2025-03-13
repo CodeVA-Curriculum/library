@@ -31,3 +31,5 @@ links:
 ## Overview
 
 Computer Science Standard Alignment Guides are resources for teachers working to integrate computer science into their core curriculum. These guides explain the standards, give a sample activity or lesson that teaches the standard, and provide ways to incorporate CS learning experiences into other subject areas. The guides linked here are aligned to the 2024 4th Grade Virginia Computer Science SOLs.
+
+::supporter[the Virginia Department of Education]

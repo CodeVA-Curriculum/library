@@ -22,3 +22,5 @@ contents:
 ## Overview
 
 In this lesson sequence, students will work in teams to learn the MakeCode and Micro\:Bit Development platform. They’ll develop basic programming skills, implementing input, output, variables, and conditional control structures. At the end of the sequence, students will compete in a “puzzle box” challenge, attempting to create a puzzle using their Micro\:Bit, code, and craft supplies and earning points based on how challenging their puzzle is to solve.
+
+::supporter

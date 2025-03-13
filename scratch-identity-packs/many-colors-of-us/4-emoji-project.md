@@ -19,3 +19,5 @@ In this lesson, students will begin by analyzing the code of an existing “emoj
 - Apply numeric variables (hex code) to determine the skin color used in the emoji.
 - Use sequencing, loops, and/or if statements to animate the emoji.
 - Collaborate in pairs or small groups to identify their own “emoji pen” sprite and to identify the emotions portrayed by other classmates’ sprites in a collaborative Scratch project.
+
+::supporter

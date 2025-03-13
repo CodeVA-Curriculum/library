@@ -15,3 +15,5 @@ links:
 ## Overview
 
 Students will learn about treaties and what important role they have played in with Virginia’s Native Americans. They will learn why there are treaties and how they affected the tribes and the Europeans and where they stand in the 21st century. In the second lesson the teacher will go through the slides with the students explaining what was agreed between the Natives in Virginia and the Europeans that came to their land. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

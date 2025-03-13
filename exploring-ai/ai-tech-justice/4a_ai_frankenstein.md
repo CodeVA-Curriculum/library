@@ -15,3 +15,5 @@ links:
 In this lesson, students will explore parallels between Mary Shelley's *Frankenstein* and contemporary AI technologies. Through comparative analysis, students will investigate themes such as creation, responsibility, and the ethical implications of technological advancements. They will engage in critical discussions, collaborative research, and creative presentations highlighting societal impacts of creating new technologies.
 
 This lesson was created by Amber Rauls-Drayer and edited by Michelle Pealo for CodeVA with support from the Kapor Center.
+
+::supporter

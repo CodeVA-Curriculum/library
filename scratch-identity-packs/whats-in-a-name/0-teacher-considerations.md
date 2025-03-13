@@ -15,3 +15,5 @@ Recently, children’s literature centering on identity has been subject to inte
 - Supports students that are questioning their identity in any way
 
 Click the buttons above to read guidance on teaching and discussing this topic in your classroom in preparation for facilitating the *What's in a Name* lesson sequence.
+
+::supporter

@@ -18,3 +18,5 @@ In this two part lesson, students will be introduced to conditionals. They will 
 - Translate English-based conditional statements into code in MakeCode
 - Use conditional statements to create a game
 - Interpret events within peer’s games as conditional statements
+
+::supporter

@@ -18,3 +18,5 @@ In this lesson, students will learn probability concepts, recognizing and descri
 - Recognize and describe basic probability concepts.
 - Apply the concept of probability as decimals using a Micro\:Bit.
 - Analyze and compare theoretical and experimental probability.
+
+::supporter

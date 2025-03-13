@@ -21,3 +21,5 @@ In this project, students create a program that performs calculations on input v
     - Generate formatted output based on user input
 - Evaluate the role of data collection in contemporary computing
 - Evaluate the kinds of data & decision-making easily represented by computing systems, and those that are excluded by the limitations of computing hardware, data types, etc.
+
+::supporter

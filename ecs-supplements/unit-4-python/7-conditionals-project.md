@@ -22,3 +22,5 @@ Students will create a program that uses randomization to generate different out
     - Logical & relational expressions
     - Arithmetic expressions
 - Evaluate the use conditional statements in computing systems, and provide examples of how conditional control structures might be improved to avoid unjust outcomes
+
+::supporter

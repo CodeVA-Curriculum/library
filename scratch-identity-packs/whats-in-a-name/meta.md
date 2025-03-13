@@ -24,3 +24,5 @@ contents:
 This lesson sequence offers students and teachers a way to explore gender and cultural identity through analyzing children’s literature and coding with Scratch, specifically exploring the importance of names to our identities. Through read-aloud activities and self-differentiated Scratch projects, students learn about the importance of names in reference to both gender identity and culture, and have a chance to explore and express ideas about their own names, brainstorm creating school environments supportive of diversity, and reflect on their own bravery and resilience.
 
 This sequence is broken into seven lessons, though your students may need additional class time to work on their projects.
+
+::supporter

@@ -12,3 +12,5 @@ links:
 Computer Science Standard Alignment Guides are resources for teachers working to integrate computer science into their core curriculum. These guides explain the standards, give a sample activity or lesson that teaches the standard, and provide ways to incorporate CS learning experiences into other subject areas. 
 
 This particular guide is aligned to standard K.NI.1 from the Networks and the Internet strand of the 2024 Kindergarten Virginia Computer Science SOLs.
+
+::supporter[the Virginia Department of Education]

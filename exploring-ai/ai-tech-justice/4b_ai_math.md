@@ -15,3 +15,5 @@ links:
 In this lesson, 8th-grade students will explore artificial intelligence (AI) bias by comparing representations of bread in a dataset from Quick Draw with Google with images of bread from around the world. The project begins with students analyzing data and creating scatterplots to explore cultural and regional biases. The teacher will then demonstrate AI bias using an AI image generator to highlight the broader human impact of AI biases.
 
 This lesson was created by Amber Rauls-Drayer and edited by Michelle Pealo for CodeVA with support from the Kapor Center.
+
+::supporter

@@ -29,3 +29,5 @@ contents:
 ## Overview
 
 Below, you'll find SOL alignment resources for grades K-8, organized by subject area.
+
+::supporter[the Virginia Department of Education]

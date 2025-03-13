@@ -21,3 +21,5 @@ In this lesson, students will read and trace a “Hello World'' Python program t
     - Generate formatted output based on user input
 - Write arithmetic expressions using Python & predict the results of those expressions
 - Identify input & output in programs they use in daily life, and evaluate the ways those programs use the data they provide to them
+
+::supporter

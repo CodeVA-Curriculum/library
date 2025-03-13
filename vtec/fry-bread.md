@@ -16,3 +16,4 @@ links:
 
 Making and eating fry bread is a special event for many Native American people. People began to make fry bread because sometimes in the past they only had a few things to make meals with. This lesson leads students through the history and heritage of fry bread with the book Fry Bread– A Native American Family Story by Kevin Noble and consider the similies and metaphors within the story, and then reflect on family traditions in their own culture and household through a flowchart of pseudocode. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
 
+::supporter

@@ -14,3 +14,5 @@ contents:
 ## Overview
 
 The Lessons below are designed to add on to or replace parts of the [Exploring Computer Science](https://www.exploringcs.org/) curriculum to help align it to different parts of the Virginia Computer Science SOLs.
+
+::supporter

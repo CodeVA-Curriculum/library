@@ -15,3 +15,5 @@ links:
 In this lesson, students learn about artificial intelligence (AI), machine learning (ML), and the importance of quality data. Through interactive activities like sorting examples of AI and predicting patterns, students explore how AI makes decisions and the role of data in those decisions. They will identify AI in their daily lives, discuss how flawed data can affect outcomes, and reflect on ethical considerations. 
 
 This lesson was created by Amber Rauls-Drayer and edited by Michelle Pealo for CodeVA with support from the Kapor Center.
+
+::supporter

@@ -23,3 +23,5 @@ In this lesson, students sort Lego bricks and discuss real world examples of how
 * Sort and classify “trash” objects based on their attributes
 * Identify items that can and cannot be recycled
 * Explain the importance of recycling
+
+::supporter

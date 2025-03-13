@@ -22,3 +22,5 @@ This lesson sequence by Sara Fergus, Christa VanOlst, & Jon Stapleton offers stu
 * Use predictive models (including linear regression) to make predictions given a related dataset
 * Evaluate predictive models, assess how to use them appropriately to inform human decision-making, and identify problems with models which make them unreliable (e.g., bias, overfitting)
 * Identify the role data science and statistics play in society at large, including the impact of misleading data visualizations, bias in data collection and analysis, and other issues at the intersection of data science and human experience.
+
+::supporter

@@ -23,3 +23,5 @@ Students work in groups to use four weather tools (thermometer, barometer, anemo
 * Use weather instruments (thermometer, barometer, rain gauge, anemometer) and observations of sky conditions to collect, record, and graph weather data over time; analyze results and determine patterns that may be used to make weather predictions
 * Collect data to create charts and graphs
 * Recognize and analyze patterns and relationships within data sets
+
+::supporter

@@ -9,3 +9,5 @@ types: Lesson Plan
 ## Summary
 
 In this lesson, students will code along with the teacher to create a chase-style game in which the main sprite “high fives” its friends. Students will learn to use conditional blocks and Boolean blocks to control actions in the program, and will practice using variables to have the computer count how many times an action has occurred in the game.
+
+::supporter

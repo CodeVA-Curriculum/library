@@ -22,3 +22,5 @@ Students will use decomposition strategies to predict what will happen in a stor
 * Use the illustrations in a story to make predictions
 * Use the illustration to answer the 5W and 1H questions about a text
 * Read to determine if my prediction was accurate
+
+::supporter

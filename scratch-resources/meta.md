@@ -11,7 +11,6 @@ contents:
     - scratch-identity-packs/whats-in-a-name
     - scratch-identity-packs/land-of-all
     - scratch-identity-packs/many-colors-of-us
-    - scratch-identity-packs
 links:
     drive: https://drive.google.com/drive/u/0/folders/1ohY7qG1xML4LVPAEMHzvoFpWwWeWfayv
 ---

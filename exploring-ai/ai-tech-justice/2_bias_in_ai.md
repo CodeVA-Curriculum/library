@@ -15,3 +15,5 @@ links:
 In this lesson, students will explore bias, to prepare to reflect on and analyze biases in their Teachable Machine project, and discuss strategies to mitigate these biases. The lesson emphasizes the importance of fairness and justice in AI systems and prepares students to reflect on the societal impact of biased AI. 
 
 This lesson was created by Holly Sawyer and edited by Amber Rauls-Drayer and Jon Stapleton for CodeVA with support from the Kapor Center.
+
+::supporter

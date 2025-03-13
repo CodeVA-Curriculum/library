@@ -15,3 +15,5 @@ links:
 ## Overview
 
 Students will learn about The Water Walker, Josephine Mandamin, and discuss and research topics related to the protection of our water sources. Students will then take their research and consider how advancements in technology over the past 50 years (specifically transportation and and business (shipping, manufacturing) have impacted the local water supplies.This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

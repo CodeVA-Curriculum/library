@@ -21,3 +21,5 @@ The lesson is designed to help fourth and fifth grade students understand the sc
 * Recognize and value the thoughts and feelings of others by asking questions and listening to those with different perspectives, backgrounds, and cultures.
 * Demonstrate an understanding of the relationship between melanin concentration and skin color, and the chemical reaction between the sun and melanin through a hands-on activity.
 * Understand and use scientific and engineering practices to come up with and evaluate explanations and conclusions.
+
+::supporter

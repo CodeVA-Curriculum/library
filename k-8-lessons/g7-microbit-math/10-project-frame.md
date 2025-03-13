@@ -19,3 +19,5 @@ In this project, students will demonstrate their understanding of probability an
 - Create a Micro\:Bit simulation to test probability
 - Use “if” statements in code
 - Analyze the differences between theoretical and experimental probability
+
+::supporter

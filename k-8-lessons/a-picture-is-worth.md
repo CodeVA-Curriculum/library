@@ -22,3 +22,5 @@ Students will identify the characters, setting, and sequential events of a story
 * sequence events in a story
 * retell a story with the most important details
 * draw a picture to represent a story and its story elements
+
+::supporter

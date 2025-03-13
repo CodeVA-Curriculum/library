@@ -23,3 +23,5 @@ In this lesson, students explore the basics of artificial intelligence (AI) and 
 * Evaluate the ethical considerations and justice issues involved in developing and using ML models.
 * Discuss strategies to mitigate biases in AI models.
 * Reflect on the societal impact of biased AI systems.
+
+::supporter

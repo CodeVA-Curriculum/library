@@ -21,3 +21,5 @@ Students will use Scratch programming to create interactive poems inspired by *T
 - Explore and express their own identity and sense of self
 - Develop creativity and self-expression through writing and coding
 - Develop public speaking and presentation skills  
+
+::supporter

@@ -16,3 +16,4 @@ links:
 
 Students will investigate the Dakota Access Pipeline and the timeline of events surrounding it. They will collaborate to research the impact this new technology has had, and continues to have, on Native People in that area, as well as create a decision making model to compare and contrast the supporting and opposing perspectives. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
 
+::supporter

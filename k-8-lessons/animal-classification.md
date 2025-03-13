@@ -20,3 +20,5 @@ During this lesson, students will learn how scientists classify animals.  They w
 * Describe attributes of animals
 * Identify the attributes animals have in common
 * Sort and classify animals based on their attributes
+
+::supporter

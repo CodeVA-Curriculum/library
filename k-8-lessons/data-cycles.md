@@ -22,3 +22,5 @@ This lesson introduces students to the data cycle and uses line plots (dot plots
 * Collect and organize data using line plots (dot plots) and stem-and-leaf plots.
 * Analyze data to draw conclusions and make predictions.
 * Propose solutions or follow-up questions based on data analysis. 
+
+::supporter

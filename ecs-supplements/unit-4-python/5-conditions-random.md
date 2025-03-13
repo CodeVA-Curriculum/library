@@ -19,3 +19,5 @@ In this lesson, students will explore the “Testing Random Numbers” program t
     - Generate random numbers
     - Use conditional statements to produce multiple output statements
 - Consider the role of automation in society, including computing systems that automate tasks through conditional control structures & data entry/collection
+
+::supporter

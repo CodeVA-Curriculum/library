@@ -23,3 +23,5 @@ Students will engage in a discussion about the concepts of algorithms and loops.
 * Students will understand the concepts of algorithms and loops.
 * Students will apply the pair programming technique to collaboratively create an origami model.
 * Students will examine the origami instructions (algorithm) and identify the 'loops' (repeated steps).
+
+::supporter

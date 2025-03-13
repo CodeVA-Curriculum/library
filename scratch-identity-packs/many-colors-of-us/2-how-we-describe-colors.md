@@ -18,3 +18,5 @@ In this lesson, students will describe color using adjectives and nouns, apply v
 - Describe colors using adjectives and nouns
 - Express color using numeric values
 - Describe the relationship between the way humans describe color and the way computers describe color
+
+::supporter

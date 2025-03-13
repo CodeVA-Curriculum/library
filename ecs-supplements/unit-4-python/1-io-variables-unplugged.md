@@ -18,3 +18,5 @@ In this activity, students will use a model of a computer, taking the form of a 
 - Read, write, and debug pseudocode
 - Write algorithms that include variables and arithmetic operations
 - Trace code that uses input, output, and variables to evaluate whether or not it works as expected
+
+::supporter

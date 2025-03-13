@@ -20,3 +20,5 @@ In this lesson, students will learn how to make interactive programs using input
 
 - Identify sensors on the Micro\:Bit microcontroller used to trigger input events
 - Read, debug, trace, and write code using the MakeCode platform for the Micro\:Bit using input event blocks to create interactive interfaces
+
+::supporter

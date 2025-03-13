@@ -15,3 +15,5 @@ links:
 ## Overview
 
 Students will gather information regarding the cultural and economic interactions between Europeans and American Indians during Westward Expansion. Students will work in groups to analyze several primary sources and create a visual representation depicting the Native vs. European perspectives of westward expansion. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

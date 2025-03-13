@@ -19,3 +19,5 @@ In this lesson, students will compare experimental, theoretical, and simulated r
 - Express probability through decimals, 
 - Use probability calculations and proportional reasoning to make predictions of experimental outcomes
 - Articulate the differences between theoretical and experimental probabilities
+
+::supporter

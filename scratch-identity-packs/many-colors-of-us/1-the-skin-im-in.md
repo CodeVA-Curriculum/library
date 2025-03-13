@@ -21,3 +21,5 @@ This reading guide provides an overview of the chapter book *The Skin I’m In* 
 - Improve their reading comprehension, expand their vocabulary, promote social emotional learning, and gain introductory knowledge of computer science concepts by participating in ELA activities and themes centered around Colorism/Skin-Tone Bias, Identity and Self-Esteem, and Writing as Self Expression, using the book The Skin I'm In as a tool.
 - Understand how stereotypes can be harmful, explain how stereotypes can create bias, empathize with others' thoughts, perspectives, and emotions, and ask questions in a positive manner about other people's cultures, traditions, and beliefs.
 - Use writing as a form of self-expression and reflection on personal identity and self-esteem.
+
+::supporter

@@ -23,3 +23,5 @@ In this lesson, students will discuss some positive and negative impacts of devi
 * Create and compare two different visual representations of their survey data.
 * Analyze data representations to recognize patterns, make predictions, and draw conclusions.
 * Examine and discuss the positive and negative impacts of computing technologies.
+
+::supporter

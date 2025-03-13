@@ -19,3 +19,5 @@ In this lesson, students learn about simulations and how they are used. They con
 - Create and compare bar charts of results
 - Modify code involving random number generation and conditional control structures
 - Compare experimental and simulated outcomes
+
+::supporter

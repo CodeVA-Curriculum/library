@@ -23,3 +23,5 @@ In this lesson, students will compress and encrypt digital images using systemat
 * Encrypt some image data to hide its content.
 
 Click the Google Drive button above to view the whole lesson!
+
+::supporter

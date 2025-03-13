@@ -21,3 +21,5 @@ contents:
 This lesson sequence offers students and teachers a way to explore their individual identities and sense of belonging through analyzing children’s literature and coding with Scratch. Through read-aloud activities and self-differentiated Scratch projects, students learn about the value of inclusion and explore and express ideas about their personal and social identities. Students will describe environments supportive of diversity, and reflect on their own identity as they create expressive projects about their sense of belonging.
 
 This sequence is broken into four lessons, though your students may need additional class time to work on their projects.
+
+::supporter

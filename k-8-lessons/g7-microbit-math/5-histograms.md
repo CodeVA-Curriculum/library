@@ -19,3 +19,5 @@ In this lesson, students combine knowledge of computer simulations and histogram
 - Describe the differences between theoretical and experimental probability 
 - Use histograms to display and interpret probability data.
 - Read, trace, and write programs that simulate probabilistic phenomena
+
+::supporter

@@ -21,3 +21,5 @@ This lesson introduces the use of variables to store data or the results of math
 - Create a variable, set the variable to an initial value, and change the value of the variable within a Micro\:Bit program.
 - Explain that a variable holds one value at a time, and that when you update or change the value held by a variable, the new value replaces the previous value.
 - Apply the above knowledge and skills to create a unique program that uses variables as an integral part of the program.
+
+::supporter

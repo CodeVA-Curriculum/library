@@ -25,4 +25,4 @@ Students will represent personal data and encode a design document visualization
 * Collect data and create a corresponding graph
 * Answer questions about data on a graph and design document visualization (data monster)
 
-
+::supporter

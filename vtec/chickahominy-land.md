@@ -15,3 +15,5 @@ links:
 ## Overview
 
 Students will learn about the Chickahominy Tribe in VIrginia and the events that took place when the Tribe lost their land and the steps taken to re-acquire their land from 1646 to 2021. There is additional land that they would like to purchase and if there are plans to accomplish this. Students will use this information and research to design a visual representation of the timeline and history of the Chickahominy land. This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

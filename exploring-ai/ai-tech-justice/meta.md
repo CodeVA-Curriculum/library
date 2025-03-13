@@ -23,3 +23,5 @@ contents:
 This lesson sequence offers teachers a way to facilitate learning experiences where middle through early high school students interrogate ethics, equity, and justice in the creation and use of AI models through practical, hands-on projects and critical analysis of AI both in and outside the classroom. Students build and test original AI models using the beginner-friendly tool [Teachable Machine](https://teachablemachine.withgoogle.com/) and participate in critical conversations about how AI models might foster, perpetuate, or reinforce bias, discrimination, or marginalization. Included supports help teachers integrate the lessons into different content areas, including English, mathematics, programming, and music.
 
 View the materials on Google Drive or PDF by clicking the buttons above!
+
+::supporter

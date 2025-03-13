@@ -19,3 +19,4 @@ In this lesson, students learn fundamental coding skills on the Micro\:Bit, spec
 - Use randomization in their Micro\:Bit programs.
 - Establish connections between input/event blocks and variables, enabling the creation of interactive programs.
 
+::supporter

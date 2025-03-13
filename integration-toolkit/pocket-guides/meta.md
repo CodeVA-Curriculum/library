@@ -21,3 +21,5 @@ contents:
 ## Overview
 
 These Pocket Guides are a quick summary of each of the 6 computer science strands for grades K-8. The pocket guides explain what the strand is about and how it increases in complexity from Kindergarten to 8th grade. Click the buttons above to view all of the strands in one document, or use the links below to view individual strands.
+
+::supporter[the Virginia Department of Education]

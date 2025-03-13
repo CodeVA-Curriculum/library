@@ -26,3 +26,4 @@ CodeVA’s ECS+Python lesson materials are collections of lesson plans and resou
 
 We have designed the ECS+Python lesson materials to be a drop-in replacement for Units 4 & 5 of the Exploring Computer Science curriculum. The sections below provide pacing guides for the materials. The lessons in italics with the gray background are forthcoming; contact <jonstapleton@codevirginia.org> for additional information or to receive an advance copy of the lesson materials.
 
+::supporter

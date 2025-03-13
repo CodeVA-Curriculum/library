@@ -15,3 +15,5 @@ links:
 ## Overview
 
 This lesson examines what people are doing to protect Earth’s clean water supply through the text Young Water Protectors, a story about the Standing Rock Sioux tribe and their efforts to prevent the Dakota Access Pipeline. Students will examine the Standing Rock perspective, and consider what needs to be done to protect our water sources. Students will respond to this activity through writing prompts and represent one of those prompts through programming in Twine.This lesson was created through a partnership between CodeVA and the Virginia Tribal Education Consortium (VTEC). 
+
+::supporter

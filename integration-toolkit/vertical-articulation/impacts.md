@@ -9,3 +9,5 @@ standards: K-8.CS.IC
 ## Overview
 
 See how the Impacts of Computing computer science standards progress from grades K-12, so that teachers and coaches can get a better understanding of the skill progression expressed by the SOLs.
+
+::supporter[the Virginia Department of Education]

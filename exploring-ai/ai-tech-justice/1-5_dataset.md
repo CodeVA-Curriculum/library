@@ -15,3 +15,5 @@ links:
 In this lesson, students learn about the basics of data. Through a survey, they collect data, analyze it, and understand the limitations of data and data collection. They will connect their key takeaways from their real-world experiences with data collection to prepare to analyze AI scenarios.
 
 This lesson was created by Holly Sawyer and edited by Michelle Pealo for CodeVA with support from the Kapor Center.
+
+::supporter

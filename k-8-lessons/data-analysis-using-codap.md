@@ -22,3 +22,5 @@ In this lesson, 8th-grade students explore the United Nations’ Human Developme
 * Create a scatterplot to visualize data and present their findings to the class.  
 * Analyze patterns in the scatterplots and identify relationships (if present) between variables.
 * Discuss data biases and their impact on data analysis.
+
+::supporter

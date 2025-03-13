@@ -23,3 +23,5 @@ contents:
 ## Overview
 
 The lesson sequence below is designed to be a 3+ week unit for 7th grade math teachers interested in teaching probability & statistics integrated with programming concepts. The lessons make use of the Micro\:Bit microcontroller and the [MakeCode](https://makecode.microbit.org) programming platform. They are aligned to the 7th grade *Algorithms & Programming* Virginia computer science standards, and the 7th grade *Probability & Statistics* Virginia mathematics standards.
+
+::supporter

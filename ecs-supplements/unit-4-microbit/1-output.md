@@ -21,3 +21,5 @@ In this lesson, students learn the basics of coding for the Micro\:Bit using the
 - Define “computing device”, “hardware”, “software”, and “microcontroller”
 - Identify computing devices based on the IPOS (input, processing, output, storage) model
 - Read, trace, debug, and write MakeCode and Micro\:Bit programs that use display commands and the “on-start” and “forever” event blocks.
+
+::supporter

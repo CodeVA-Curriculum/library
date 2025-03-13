@@ -21,3 +21,5 @@ In this lesson, students will implement Python programs that use “while” loo
     - Combine conditional statements using logic operators
     - Use “while” loops
 - Consider the role of programs that use conditional statements in the reinforcement of systemic injustice, marginalization, or other problems exacerbated by poor design decisions in automated computing systems
+
+::supporter

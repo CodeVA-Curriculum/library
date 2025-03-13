@@ -23,3 +23,5 @@ In this lesson, students analyze characteristics and stages of a plant life cycl
 * Compare and contrast multiple ways to sort plant life cycles
 * Create a table of features to organize plant life cycles
 * Design an algorithm to sort plant life cycles into categories based on multiple attributes
+
+::supporter

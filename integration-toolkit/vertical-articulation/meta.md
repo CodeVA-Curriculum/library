@@ -21,3 +21,5 @@ contents:
 ## Overview
 
 See all of the computer science standards by each strand and how they advance from kindergarten through high school. Click the links above to view all of the vertical articulation charts in one document. Browse the links below to view charts by grade band or strand.
+
+::supporter[the Virginia Department of Education]

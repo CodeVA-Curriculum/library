@@ -19,3 +19,5 @@ In this lesson, students explore relationships between decimals and percentages.
 - Identify that percentages  represent parts per hundred.
 - Convert between decimals and percentages.
 - Explain the significance of decimals and percentages in mathematical and real-life applications.
+
+::supporter
