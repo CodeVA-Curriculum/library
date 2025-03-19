@@ -3,6 +3,7 @@ title: 6th Grade CS SOL Crosswalk
 standards: 6.CS
 links:
     drive: https://docs.google.com/document/d/1GLAsxgQo4H6UDDnNYwxKkZNmDzT8g4XEecc07zFGZWU/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

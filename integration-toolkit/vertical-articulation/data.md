@@ -4,6 +4,7 @@ grades: K-8
 links:
     drive: https://docs.google.com/document/d/12UDXd15ngUxCBgEBvF86DxGfOOwNU4fIvOT_ePC_Rjc/edit?usp=drive_link
 standards: K-8.CS.DA
+vdoe: true
 ---
 
 ## Overview

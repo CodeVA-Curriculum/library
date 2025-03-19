@@ -1,5 +1,5 @@
 ---
-title: AI & Tech Justice
+title: Creating Responsible AI
 authors: Michelle Pealo, Amber Rauls-Drayer, Holly Sawyer, Jess Newsome, Jon Stapleton
 standards: 8.CS24.DA.2, 8.CS24.IC.1, HS.CSF.IC.1, HS.CSF.DA.3, HS.CSP.DA.3, HS.CSP.DA.4
 subjects: Computer Science, Mathematics, Music, History & Social Science, English

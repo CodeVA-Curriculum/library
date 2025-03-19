@@ -16,6 +16,7 @@ contents:
     - ./data.md
     - ./impacts.md
     - ./networks.md
+vdoe: true
 ---
 
 ## Overview

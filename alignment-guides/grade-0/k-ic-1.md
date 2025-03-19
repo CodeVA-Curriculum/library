@@ -5,6 +5,7 @@ standards: K.CS24.IC.1
 links:
     drive: https://docs.google.com/document/d/1VI0-A7LqfDuc3S8kG7k1_Fwlhg8zC50MMAe6ryLeFA0/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/18Ojxi0kzZmBd6Us1NuMviGctSL7xxGBc/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

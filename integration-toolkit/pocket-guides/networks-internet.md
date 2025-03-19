@@ -4,7 +4,7 @@ subjects: Computer Science, Networks & the Internet
 links:
     drive: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
     pdf: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
-standards: K-12.CS.NI
+standards: K-12.CS24.NI
 ---
 
 ## Overview

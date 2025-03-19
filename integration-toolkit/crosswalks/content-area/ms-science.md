@@ -2,6 +2,7 @@
 title: MS Science + CS SOL Crosswalk
 links:
     drive: https://docs.google.com/document/d/1-I-8fa_A6ZRTOhvs6Gx8qFjM4Gk1ECQrMi4N32l31rM/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

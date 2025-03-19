@@ -24,6 +24,7 @@ contents:
     - ./ms-music.md
     - ./ms-pe.md
     - ./ms-science.md
+vdoe: true
 ---
 
 ## Overview

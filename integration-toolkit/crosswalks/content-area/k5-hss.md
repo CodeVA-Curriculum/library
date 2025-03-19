@@ -12,6 +12,7 @@ standards:
     - 5.HSS.[0,5-9]
 links:
     drive: https://docs.google.com/document/d/1nVtK3DgnoASDEZ3FPKtjrJCLF9ULKZ4zFKD57H-YZpI/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

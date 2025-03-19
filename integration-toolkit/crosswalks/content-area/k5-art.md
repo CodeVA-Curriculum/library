@@ -13,6 +13,7 @@ standards:
     - 5.VA.[1-3,6-10,12,16,17] 
 links:
     drive: https://docs.google.com/document/d/17pKaFTwWy3fsA1pYtYx_lfqx9eF-oUXj34Iv0dpe4Ho/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

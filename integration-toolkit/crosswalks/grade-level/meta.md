@@ -14,6 +14,7 @@ contents:
     - ./grade-6.md
     - ./grade-7.md
     - ./grade-8.md
+vdoe: true
 ---
 
 ## Overview

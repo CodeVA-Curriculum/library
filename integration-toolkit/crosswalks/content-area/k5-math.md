@@ -4,6 +4,7 @@ subjects: Computer Science, Mathematics
 grades: K-5
 links:
     drive: https://docs.google.com/document/d/1OgHgh4qiLdxo8rggE-JseFVbTCtaEL1LHzvWk_5dvmg/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

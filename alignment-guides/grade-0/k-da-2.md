@@ -5,6 +5,7 @@ standards: K.CS24.DA.2
 links:
     drive: https://docs.google.com/document/d/1FueYDA3D6uT89mWczUc3oWuqeMDnROdp7fXvzWfYRhg/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/1kOuJE8cIGrfb59MXSh_yZcNKN0Gsovjt/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

@@ -4,7 +4,8 @@ subjects: Computer Science, Data & Analysis
 links:
     drive: https://drive.google.com/file/d/1NunjxwBBxFnNjYouSgXXH3FeF_SQoM4K/view?usp=drive_link
     pdf: https://drive.google.com/file/d/1NunjxwBBxFnNjYouSgXXH3FeF_SQoM4K/view?usp=drive_link
-standards: K-12.CS.DA
+standards: K-12.CS24.DA
+vdoe: true
 ---
 
 ## Overview

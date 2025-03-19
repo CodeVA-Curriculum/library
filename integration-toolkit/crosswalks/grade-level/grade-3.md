@@ -3,6 +3,7 @@ title: 3rd Grade CS SOL Crosswalk
 standards: 3.CS
 links:
     drive: https://docs.google.com/document/d/1GlB-xR2pvXOxcj7KPYE5pxF8pDzthbp5Ey2--kiBAnM/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

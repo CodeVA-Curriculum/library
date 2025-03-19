@@ -23,6 +23,7 @@ contents:
     - ./visualizing-geospatial-data.md
     - ./where-am-i.md
     - ./whose-desk-is-it.md
+    - ./hard-history
 ---
 
 ## Overview

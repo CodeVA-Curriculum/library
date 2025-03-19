@@ -13,6 +13,7 @@ standards:
     - 5.EN.[1-9]
 links:
     drive: https://docs.google.com/document/d/1ij3jJelte3LZQU-FsPEXZEzzi4d8S3bj0hP8lDrEKlk/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

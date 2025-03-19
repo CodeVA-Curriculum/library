@@ -5,6 +5,7 @@ standards: K.CS24.AP.1
 links:
     drive: https://docs.google.com/document/d/1VWtbjiB2YOoxdt_QZPbp8ElImyyGczAlWkW70gbuL4M/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/1gFXaF0UXYYBbVZIZEQTHqa4iEo6u8AW6/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

@@ -3,6 +3,7 @@ title: 5th Grade CS SOL Crosswalk
 standards: 5.CS
 links:
     drive: https://docs.google.com/document/d/1TvHnrYZfqjHecVpgKJxihfaXQaw50UVY7TpQJvyP3yg/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

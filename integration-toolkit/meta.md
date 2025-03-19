@@ -13,6 +13,7 @@ contents:
     - ./vertical-articulation
     - ./crosswalks
     - ./vocab-cards.md
+vdoe: true
 ---
 
 ## Overview

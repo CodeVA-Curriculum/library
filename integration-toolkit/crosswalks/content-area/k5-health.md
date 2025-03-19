@@ -12,6 +12,7 @@ standards:
     - 5.HE.[1-3]
 links:
     drive: https://docs.google.com/document/d/1EUuLgpR_L_RymPJ_daRnXuJ5fgQu87EwzTG-m57dfic/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

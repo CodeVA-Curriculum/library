@@ -5,6 +5,7 @@ standards: K.CS24.NI.1
 links:
     drive: https://docs.google.com/document/d/1BcozgdUvoo6UAPrTk7GkukGePCJ8CrXECMLDoYZyJp4/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/1FTSILm5OH9u5EYF-Sc_mUJwwgcl8QP38/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

@@ -3,6 +3,7 @@ title: 2nd Grade CS SOL Crosswalk
 standards: 2.CS
 links:
     drive: https://docs.google.com/document/d/1dHc_ShsKPFpuOcvUbC9o0TQEuH8KRgL2oiHBZPFPchM/edit?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

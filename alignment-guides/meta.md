@@ -13,11 +13,9 @@ contents:
     - ./grade-4
     - ./grade-5
     - ./grade-6
-    - ./hard-history
 links:
     drive: https://drive.google.com/drive/folders/1v7IqdfdtnkP-qo2kQ_lMgcnQU3mQB3fU
-    pdf: https://drive.google.com/file/d/1NQwvhAjPq-iNwTO_uOZzLyjxyel-Sf6B/view
-    goopen: https://goopenva.org/courseware/lesson/6845/overview
+vdoe: true
 ---
 
 ## Overview

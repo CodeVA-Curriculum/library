@@ -26,6 +26,7 @@ contents:
 links:
     drive: https://drive.google.com/drive/folders/1FYNOvn6-7OCqnOAIYwgNPxk5CPXRMqBp?usp=drive_link
     pdf: https://drive.google.com/file/d/1HpR8oZjQ82GBa8BOWHhqeVk-vNBz5HVk/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

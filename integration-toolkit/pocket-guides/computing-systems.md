@@ -4,7 +4,8 @@ subjects: Computer Science, Computing Systems
 links:
     drive: https://drive.google.com/file/d/1Gi26ohIXYmKKvoeDBGJTAB4dj4kr66WD/view?usp=drive_link
     pdf: https://drive.google.com/file/d/1Gi26ohIXYmKKvoeDBGJTAB4dj4kr66WD/view?usp=drive_link
-standards: K-12.CS.CS
+standards: K-12.CS24.CS
+vdoe: true
 ---
 
 ## Overview

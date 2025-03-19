@@ -4,7 +4,8 @@ subjects: Computer Science, Cybersecurity
 links:
     drive: https://drive.google.com/file/d/1n_qVRLCcYFtjrvket6Q7EwBv9ecKVsyD/view?usp=drive_link
     pdf: https://drive.google.com/file/d/1n_qVRLCcYFtjrvket6Q7EwBv9ecKVsyD/view?usp=drive_link
-standards: K-12.CS.CY
+standards: K-12.CS24.CY
+vdoe: true
 ---
 
 ## Overview

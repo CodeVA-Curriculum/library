@@ -16,6 +16,7 @@ contents:
     - ./data-analysis.md
     - ./impacts.md
     - ./networks-internet.md
+vdoe: true
 ---
 
 ## Overview

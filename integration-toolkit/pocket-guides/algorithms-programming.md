@@ -5,7 +5,8 @@ _tags: algorithms & programming
 links:
     drive: https://drive.google.com/file/d/16JXdu3Oth_m6FzmxZiqI-4L-Fp7B3FWZ/view?usp=drive_link
     pdf: https://drive.google.com/file/d/16JXdu3Oth_m6FzmxZiqI-4L-Fp7B3FWZ/view?usp=drive_link
-standards: K-12.CS.AP
+standards: K-12.CS24.AP
+vdoe: true
 ---
 
 ## Overview

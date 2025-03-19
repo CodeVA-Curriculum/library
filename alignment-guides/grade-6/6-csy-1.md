@@ -5,6 +5,7 @@ standards: 6.CS24.CSY.1
 links:
     drive: https://docs.google.com/document/d/1Wl5Ak2xB7EU4EXwqu5KPmMWtzcFAeLD9JKg9uAh7288/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/1AZYF4dDDULo-y1l8wRGv7mxPfhU8qVJs/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview

@@ -5,6 +5,7 @@ standards: 4.CS24.CYB.3
 links:
     drive: https://docs.google.com/document/d/1c9nNq-FV7WKHVby5Snz9sl00AJGrkUBXWhI7WRFJs5Q/edit?usp=drive_link
     pdf: https://drive.google.com/file/d/1yMOpggipXIVtOhzgY_5c6jmyzMp04pqD/view?usp=drive_link
+vdoe: true
 ---
 
 ## Overview
