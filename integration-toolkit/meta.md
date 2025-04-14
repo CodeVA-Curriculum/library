@@ -10,9 +10,6 @@ links:
 contents:
     - alignment-guides
     - ./pocket-guides
-    - ./vertical-articulation
-    - ./crosswalks
-    - ./vocab-cards.md
 vdoe: true
 ---
 

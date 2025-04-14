@@ -7,7 +7,6 @@ types: Curricular Resource
 links:
     drive: https://drive.google.com/drive/u/0/folders/1cK7sfLRgGCQ7LwAydckjBbYwVa_IZj3Z
 contents:
-    - exploring-ai/ai-sol-crosswalk.md
     - ./k5-art.md
     - ./k5-ela.md
     - ./k5-health.md
