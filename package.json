@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/CodeVA-Curriculum/library.git",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "thumbnails": "node src/thumbnails.cjs",
+    "pdfs": "node src/thumbnails.cjs"
+  },
+  "dependencies": {
+    "env": "^0.0.2",
+    "googleapis": "^173.0.0"
+  }
 }
