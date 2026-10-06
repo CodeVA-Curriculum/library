@@ -7,4 +7,6 @@ grades: 2-3
 subjects: Computer Science, English
 standards: 4.CS.AP, 4.EN
 tags: chance, randomization, debugging, unplugged, beginner
+links:
+  drive: https://docs.google.com/document/d/1RdO71MVXNIGP5Xuncdw0Vu2NMx1kwBYF6cHmaMAHsHI/edit?tab=t.0
 ---
