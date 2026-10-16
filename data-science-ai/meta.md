@@ -9,22 +9,22 @@ audiences: Classroom Teachers
 types: Unit of Study
 standards: HS.DS
 contents:
-  - 01-01-01-data-cycle.md
-  - 01-01-02-data-questions.md
-  - 01-02-01-sampling.md
-  - 01-02-02-data-types.md
-  - 01-02-03-visualizations.md
-  - 01-03-01-communication.md
-  - 01-03-02-research-project.md
-  - 01-04-01-background-review.md
-  - 01-04-02-python-intro.md
-  - 01-05-01-pandas-intro.md
-  - 01-05-02-cleaning.md
-  - 01-05-03-documentation.md
-  - 01-06-01-applying-vizs.md
-  - 01-06-02-understanding-stats.md
-  - 01-06-03-stats-in-python.md
-  - 01-07-01-unit-1-summative.md
+  - ./01-01-01-data-cycle.md
+  - ./01-01-02-data-questions.md
+  - ./01-02-01-sampling.md
+  - ./01-02-02-data-types.md
+  - ./01-02-03-visualizations.md
+  - ./01-03-01-communication.md
+  - ./01-03-02-research-project.md
+  - ./01-04-01-background-review.md
+  - ./01-04-02-python-intro.md
+  - ./01-05-01-pandas-intro.md
+  - ./01-05-02-cleaning.md
+  - ./01-05-03-documentation.md
+  - ./01-06-01-applying-vizs.md
+  - ./01-06-02-understanding-stats.md
+  - ./01-06-03-stats-in-python.md
+  - ./01-07-01-unit-1-summative.md
 ---
 
 

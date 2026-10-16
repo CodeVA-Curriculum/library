@@ -9,25 +9,25 @@ grades: 9-12
 tags: data, python, data science, statistics, visualization
 subjects: Computer Science, Mathematics
 contents:
-  - 00-frontmatter.md
-  - 01-what-is-data.md
-  - 02-data-in-python.md
-  - 03-data-types.md
-  - 04-collecting-data-python.md
-  - 04-collecting-unplugged.md
-  - 05-preparing-data.md
-  - 06-visualizations.md
-  - 07-choosing-vizs.md
-  - 08-creating-vizs.md
-  - 09-stats.md
-  - 10-creating-models.md
-  - 11-making-predictions.md
-  - 12-overfitting.md
-  - 13-decision-trees.md
-  - 14-understanding-research.md
-  - 15-developing-questions.md
-  - 16-project-practice.md
-  - 17-summative.md
+  - ./00-frontmatter.md
+  - ./01-what-is-data.md
+  - ./02-data-in-python.md
+  - ./03-data-types.md
+  - ./04-collecting-data-python.md
+  - ./04-collecting-unplugged.md
+  - ./05-preparing-data.md
+  - ./06-visualizations.md
+  - ./07-choosing-vizs.md
+  - ./08-creating-vizs.md
+  - ./09-stats.md
+  - ./10-creating-models.md
+  - ./11-making-predictions.md
+  - ./12-overfitting.md
+  - ./13-decision-trees.md
+  - ./14-understanding-research.md
+  - ./15-developing-questions.md
+  - ./16-project-practice.md
+  - ./17-summative.md
 ---
 
 # About Data Science Foundations
