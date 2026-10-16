@@ -2,6 +2,10 @@
 
 This repository is the CodeVA Curriculum Library, containing metadata about all of CodeVA's curricular artifacts accessible via [https://curriculum.codevirginia.org](https://curriculum.codevirginia.org). This page contains information about the structure of the repository and information about contributing to the library.
 
+## Migration Protocol (as of 10/13/2026)
+
+When lesson plan content is added to the lesson `.md` file, delete the `link` attribute from the element's frontmatter. This will direct the CMS to render the Markdown content of the lesson as opposed to embedding the Google Doc. The `links > driveLink` frontmatter configuration is deprecated. If you encounter documents with this frontmatter schemata, repair it by replacing the `links` object with a `link` attribute pointing to the Google Doc associated with the element.
+
 ## Library Structure
 
 Here is an example of an Element with frontmatter:
@@ -13,9 +17,7 @@ authors: Sara Fergus, Christa VanOlst, Jon Stapleton
 subjects: Computer Science, Data & Analysis, Mathematics, Probability & Statistics
 types: Lesson Plan, Unit of Study
 _tags: python
-links:
-    drive: https://drive.google.com/drive/folders/14fex6O2nwfpnTowDUR-sgBs1WcqNsW6d
-    pdf: https://drive.google.com/file/d/18JQIjVfhPzSO-jM9ST1wCE9fHypYpk0x/view?usp=drive_link
+link: https://drive.google.com/drive/folders/14fex6O2nwfpnTowDUR-sgBs1WcqNsW6di/view
 ---
 
 ## Overview
@@ -30,7 +32,8 @@ Elements can have the following metadata fields defined in frontmatter:
 | Name | Type | Description | Required? | Inheritable? | Example |
 | ---- | ---- | ----------- | --------- | ----------- | ------- |
 | `title` | string | The name of the resource to be displayed prominently in its `ElementView` and `ElementCard` | ✅ | ❌ | `title: Data Science Project-Based Learning` |
-| `links` | object | Links to the resource. Keys must be one of `goopen`, `pdf`, and/or `drive` (a required key). | ✅ | ❌ | See `data-science/python.md` |
+| `links` (deprecated) | object | Links to the resource. Keys must be one of `goopen`, `pdf`, and/or `drive` (a required key). | ✅ | ❌ | See `data-science/python.md` |
+| `link` | string | A url pointing to a Google Doc to be rendered on the element's library page | no | no | TODO: |
 | `authors` | comma-separated list | A list of the authors of the Element | ✅ | ✅ (default: CodeVA Curriculum) | `authors: Valerie Fawley, Jess Newsome` |
 | `grades` | comma-separated list | A list of the grade levels associated with the Element. Use dash notation (.e.g, `3-5`) to denote a range of grade levels. | optional (default: K-12) | ✅ | `grades: K-2, 5, 7-12` |
 | `subjects` | comma-separated list | A list of subjects and strands associated with the Element | optional (default: "Computer Science) | ✅ | `subjects: Mathematics, Computer Science, Algorithms & Programming` |
