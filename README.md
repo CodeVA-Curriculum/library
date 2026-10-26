@@ -163,6 +163,66 @@ The name of the organization will be inserted into the following template:
 
 Be sure to add an article to the name if it needs one to make sense in the template (e.g., "the Kapor Center" needs "the" in order to make sense, while "Capital One" does not require it).
 
+---
+
+#### ::pdf
+
+The `::pdf` directive allows the user to include an embedded PDF document after the main `content` of the `Element` page.
+
+```
+::pdf[./file.pdf]  
+```
+
+Idiomatically, contributors should refer to the PDF by its relative path, and locate the PDF file alongside the `.md` file that references it. For example, if you had a lesson plan called `lesson.md` inside of a group as shown below:
+
+```
+example-folder
+|_ meta.md
+|_ lesson.md
+|_ rubric.pdf  
+```
+
+...and you want to include the `rubric.pdf` file at the end of the `lesson.md` page, the `::pdf` directive would be spelled as:
+
+```
+::pdf[./rubric.pdf]
+```
+
+Otherwise, use the file path as if `library`, the root of this repository, is the working directory:
+
+```
+::pdf[example-folder/rubric.pdf]  
+```
+
+---
+
+#### `::download`
+
+The `::download` directive provides the user with a visual cue and a download link for a static file or other downloadable resource. Use this directive to include resources like code examples, `.zip` archives, and other non-embeddable documents in the lesson outline.
+
+```
+Here's a list of resources to download:
+
+- [A normal website](https://codevirginia.org)
+- ::download[file.js]
+```
+
+The `title` attribute allows you to apply a label to the link:
+
+```
+::download[file.js]{title="Example Program"}
+```
+
+If you omit the title, the directive will display the filename in its place.
+
+If you want to include a link in the context of a paragraph of text, use the "in-text" directive syntax (one `:download` instead of `::download`). If you try to use `::download` inside of a text element, the page will not interpret the directive correctly and will not display the download link.
+
+```
+Here's a :download[file.py] inside of a paragraph.
+```
+
+---
+
 
 ### Field Details (Work in Progress)
 
